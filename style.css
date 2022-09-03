@@ -1,0 +1,12 @@
+.card {
+    width: 200px;
+    height: 300px;
+    border-style: ridge;
+    border-color: blue;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.suit {
+    display:inline-block;
+}
